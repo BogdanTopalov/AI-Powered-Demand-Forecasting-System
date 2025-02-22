@@ -1,0 +1,731 @@
+date,product,flavour,units_sold,price
+2024-01-01,Protein Powder,Vanilla,74,39.99
+2024-01-01,Creatine Monohydrate,Unflavoured,31,29.99
+2024-01-02,Protein Powder,Apple Pie,44,39.99
+2024-01-02,Creatine Monohydrate,Unflavoured,69,29.99
+2024-01-03,Protein Powder,Apple Pie,88,39.99
+2024-01-03,Creatine Monohydrate,Unflavoured,70,29.99
+2024-01-04,Protein Powder,Cookies and CreamStrawberry,29,39.99
+2024-01-04,Creatine Monohydrate,Unflavoured,35,29.99
+2024-01-05,Protein Powder,Apple Pie,51,39.99
+2024-01-05,Creatine Monohydrate,Unflavoured,93,29.99
+2024-01-06,Protein Powder,Cookies and CreamStrawberry,79,39.99
+2024-01-06,Creatine Monohydrate,Unflavoured,89,29.99
+2024-01-07,Protein Powder,Cookies and CreamStrawberry,74,39.99
+2024-01-07,Creatine Monohydrate,Unflavoured,80,29.99
+2024-01-08,Protein Powder,Cookies and CreamStrawberry,48,39.99
+2024-01-08,Creatine Monohydrate,Unflavoured,99,29.99
+2024-01-09,Protein Powder,Cookies and CreamStrawberry,65,39.99
+2024-01-09,Creatine Monohydrate,Unflavoured,50,29.99
+2024-01-10,Protein Powder,Chocolate,89,39.99
+2024-01-10,Creatine Monohydrate,Unflavoured,30,29.99
+2024-01-11,Protein Powder,Chocolate,84,39.99
+2024-01-11,Creatine Monohydrate,Unflavoured,40,29.99
+2024-01-12,Protein Powder,Vanilla,50,39.99
+2024-01-12,Creatine Monohydrate,Unflavoured,48,29.99
+2024-01-13,Protein Powder,Vanilla,50,39.99
+2024-01-13,Creatine Monohydrate,Unflavoured,20,29.99
+2024-01-14,Protein Powder,Vanilla,20,39.99
+2024-01-14,Creatine Monohydrate,Unflavoured,73,29.99
+2024-01-15,Protein Powder,Cookies and CreamStrawberry,83,39.99
+2024-01-15,Creatine Monohydrate,Unflavoured,84,29.99
+2024-01-16,Protein Powder,Cookies and CreamStrawberry,65,39.99
+2024-01-16,Creatine Monohydrate,Unflavoured,96,29.99
+2024-01-17,Protein Powder,Apple Pie,94,39.99
+2024-01-17,Creatine Monohydrate,Unflavoured,89,29.99
+2024-01-18,Protein Powder,Cookies and CreamStrawberry,82,39.99
+2024-01-18,Creatine Monohydrate,Unflavoured,95,29.99
+2024-01-19,Protein Powder,Chocolate,95,39.99
+2024-01-19,Creatine Monohydrate,Unflavoured,94,29.99
+2024-01-20,Protein Powder,Cookies and CreamStrawberry,24,39.99
+2024-01-20,Creatine Monohydrate,Unflavoured,89,29.99
+2024-01-21,Protein Powder,Chocolate,80,39.99
+2024-01-21,Creatine Monohydrate,Unflavoured,46,29.99
+2024-01-22,Protein Powder,Vanilla,79,39.99
+2024-01-22,Creatine Monohydrate,Unflavoured,23,29.99
+2024-01-23,Protein Powder,Cookies and CreamStrawberry,68,39.99
+2024-01-23,Creatine Monohydrate,Unflavoured,62,29.99
+2024-01-24,Protein Powder,Cookies and CreamStrawberry,98,39.99
+2024-01-24,Creatine Monohydrate,Unflavoured,35,29.99
+2024-01-25,Protein Powder,Apple Pie,35,39.99
+2024-01-25,Creatine Monohydrate,Unflavoured,35,29.99
+2024-01-26,Protein Powder,Chocolate,72,39.99
+2024-01-26,Creatine Monohydrate,Unflavoured,43,29.99
+2024-01-27,Protein Powder,Chocolate,81,39.99
+2024-01-27,Creatine Monohydrate,Unflavoured,98,29.99
+2024-01-28,Protein Powder,Chocolate,37,39.99
+2024-01-28,Creatine Monohydrate,Unflavoured,51,29.99
+2024-01-29,Protein Powder,Apple Pie,33,39.99
+2024-01-29,Creatine Monohydrate,Unflavoured,65,29.99
+2024-01-30,Protein Powder,Cookies and CreamStrawberry,72,39.99
+2024-01-30,Creatine Monohydrate,Unflavoured,58,29.99
+2024-01-31,Protein Powder,Cookies and CreamStrawberry,62,39.99
+2024-01-31,Creatine Monohydrate,Unflavoured,96,29.99
+2024-02-01,Protein Powder,Apple Pie,85,39.99
+2024-02-01,Creatine Monohydrate,Unflavoured,60,29.99
+2024-02-02,Protein Powder,Cookies and CreamStrawberry,87,39.99
+2024-02-02,Creatine Monohydrate,Unflavoured,73,29.99
+2024-02-03,Protein Powder,Chocolate,61,39.99
+2024-02-03,Creatine Monohydrate,Unflavoured,61,29.99
+2024-02-04,Protein Powder,Chocolate,51,39.99
+2024-02-04,Creatine Monohydrate,Unflavoured,54,29.99
+2024-02-05,Protein Powder,Vanilla,36,39.99
+2024-02-05,Creatine Monohydrate,Unflavoured,91,29.99
+2024-02-06,Protein Powder,Cookies and CreamStrawberry,40,39.99
+2024-02-06,Creatine Monohydrate,Unflavoured,89,29.99
+2024-02-07,Protein Powder,Vanilla,41,39.99
+2024-02-07,Creatine Monohydrate,Unflavoured,93,29.99
+2024-02-08,Protein Powder,Apple Pie,95,39.99
+2024-02-08,Creatine Monohydrate,Unflavoured,82,29.99
+2024-02-09,Protein Powder,Vanilla,29,39.99
+2024-02-09,Creatine Monohydrate,Unflavoured,27,29.99
+2024-02-10,Protein Powder,Apple Pie,46,39.99
+2024-02-10,Creatine Monohydrate,Unflavoured,79,29.99
+2024-02-11,Protein Powder,Cookies and CreamStrawberry,30,39.99
+2024-02-11,Creatine Monohydrate,Unflavoured,88,29.99
+2024-02-12,Protein Powder,Chocolate,73,39.99
+2024-02-12,Creatine Monohydrate,Unflavoured,31,29.99
+2024-02-13,Protein Powder,Vanilla,95,39.99
+2024-02-13,Creatine Monohydrate,Unflavoured,68,29.99
+2024-02-14,Protein Powder,Chocolate,49,39.99
+2024-02-14,Creatine Monohydrate,Unflavoured,85,29.99
+2024-02-15,Protein Powder,Chocolate,52,39.99
+2024-02-15,Creatine Monohydrate,Unflavoured,82,29.99
+2024-02-16,Protein Powder,Vanilla,46,39.99
+2024-02-16,Creatine Monohydrate,Unflavoured,43,29.99
+2024-02-17,Protein Powder,Chocolate,34,39.99
+2024-02-17,Creatine Monohydrate,Unflavoured,81,29.99
+2024-02-18,Protein Powder,Cookies and CreamStrawberry,85,39.99
+2024-02-18,Creatine Monohydrate,Unflavoured,27,29.99
+2024-02-19,Protein Powder,Vanilla,43,39.99
+2024-02-19,Creatine Monohydrate,Unflavoured,30,29.99
+2024-02-20,Protein Powder,Chocolate,77,39.99
+2024-02-20,Creatine Monohydrate,Unflavoured,45,29.99
+2024-02-21,Protein Powder,Apple Pie,91,39.99
+2024-02-21,Creatine Monohydrate,Unflavoured,40,29.99
+2024-02-22,Protein Powder,Cookies and CreamStrawberry,92,39.99
+2024-02-22,Creatine Monohydrate,Unflavoured,42,29.99
+2024-02-23,Protein Powder,Chocolate,47,39.99
+2024-02-23,Creatine Monohydrate,Unflavoured,24,29.99
+2024-02-24,Protein Powder,Cookies and CreamStrawberry,67,39.99
+2024-02-24,Creatine Monohydrate,Unflavoured,34,29.99
+2024-02-25,Protein Powder,Apple Pie,75,39.99
+2024-02-25,Creatine Monohydrate,Unflavoured,68,29.99
+2024-02-26,Protein Powder,Vanilla,90,39.99
+2024-02-26,Creatine Monohydrate,Unflavoured,67,29.99
+2024-02-27,Protein Powder,Chocolate,97,39.99
+2024-02-27,Creatine Monohydrate,Unflavoured,34,29.99
+2024-02-28,Protein Powder,Chocolate,29,39.99
+2024-02-28,Creatine Monohydrate,Unflavoured,59,29.99
+2024-02-29,Protein Powder,Cookies and CreamStrawberry,82,39.99
+2024-02-29,Creatine Monohydrate,Unflavoured,23,29.99
+2024-03-01,Protein Powder,Cookies and CreamStrawberry,82,39.99
+2024-03-01,Creatine Monohydrate,Unflavoured,83,29.99
+2024-03-02,Protein Powder,Apple Pie,87,39.99
+2024-03-02,Creatine Monohydrate,Unflavoured,84,29.99
+2024-03-03,Protein Powder,Cookies and CreamStrawberry,93,39.99
+2024-03-03,Creatine Monohydrate,Unflavoured,40,29.99
+2024-03-04,Protein Powder,Cookies and CreamStrawberry,32,39.99
+2024-03-04,Creatine Monohydrate,Unflavoured,95,29.99
+2024-03-05,Protein Powder,Cookies and CreamStrawberry,78,39.99
+2024-03-05,Creatine Monohydrate,Unflavoured,44,29.99
+2024-03-06,Protein Powder,Apple Pie,88,39.99
+2024-03-06,Creatine Monohydrate,Unflavoured,88,29.99
+2024-03-07,Protein Powder,Vanilla,76,39.99
+2024-03-07,Creatine Monohydrate,Unflavoured,51,29.99
+2024-03-08,Protein Powder,Chocolate,46,39.99
+2024-03-08,Creatine Monohydrate,Unflavoured,84,29.99
+2024-03-09,Protein Powder,Vanilla,59,39.99
+2024-03-09,Creatine Monohydrate,Unflavoured,27,29.99
+2024-03-10,Protein Powder,Vanilla,55,39.99
+2024-03-10,Creatine Monohydrate,Unflavoured,76,29.99
+2024-03-11,Protein Powder,Chocolate,78,39.99
+2024-03-11,Creatine Monohydrate,Unflavoured,73,29.99
+2024-03-12,Protein Powder,Vanilla,89,39.99
+2024-03-12,Creatine Monohydrate,Unflavoured,73,29.99
+2024-03-13,Protein Powder,Chocolate,81,39.99
+2024-03-13,Creatine Monohydrate,Unflavoured,63,29.99
+2024-03-14,Protein Powder,Chocolate,84,39.99
+2024-03-14,Creatine Monohydrate,Unflavoured,87,29.99
+2024-03-15,Protein Powder,Apple Pie,62,39.99
+2024-03-15,Creatine Monohydrate,Unflavoured,55,29.99
+2024-03-16,Protein Powder,Apple Pie,41,39.99
+2024-03-16,Creatine Monohydrate,Unflavoured,69,29.99
+2024-03-17,Protein Powder,Chocolate,24,39.99
+2024-03-17,Creatine Monohydrate,Unflavoured,29,29.99
+2024-03-18,Protein Powder,Cookies and CreamStrawberry,33,39.99
+2024-03-18,Creatine Monohydrate,Unflavoured,50,29.99
+2024-03-19,Protein Powder,Chocolate,49,39.99
+2024-03-19,Creatine Monohydrate,Unflavoured,83,29.99
+2024-03-20,Protein Powder,Apple Pie,82,39.99
+2024-03-20,Creatine Monohydrate,Unflavoured,61,29.99
+2024-03-21,Protein Powder,Apple Pie,40,39.99
+2024-03-21,Creatine Monohydrate,Unflavoured,67,29.99
+2024-03-22,Protein Powder,Cookies and CreamStrawberry,24,39.99
+2024-03-22,Creatine Monohydrate,Unflavoured,86,29.99
+2024-03-23,Protein Powder,Chocolate,65,39.99
+2024-03-23,Creatine Monohydrate,Unflavoured,37,29.99
+2024-03-24,Protein Powder,Chocolate,65,39.99
+2024-03-24,Creatine Monohydrate,Unflavoured,60,29.99
+2024-03-25,Protein Powder,Chocolate,55,39.99
+2024-03-25,Creatine Monohydrate,Unflavoured,98,29.99
+2024-03-26,Protein Powder,Cookies and CreamStrawberry,22,39.99
+2024-03-26,Creatine Monohydrate,Unflavoured,27,29.99
+2024-03-27,Protein Powder,Chocolate,66,39.99
+2024-03-27,Creatine Monohydrate,Unflavoured,47,29.99
+2024-03-28,Protein Powder,Cookies and CreamStrawberry,79,39.99
+2024-03-28,Creatine Monohydrate,Unflavoured,39,29.99
+2024-03-29,Protein Powder,Chocolate,99,39.99
+2024-03-29,Creatine Monohydrate,Unflavoured,72,29.99
+2024-03-30,Protein Powder,Vanilla,43,39.99
+2024-03-30,Creatine Monohydrate,Unflavoured,98,29.99
+2024-03-31,Protein Powder,Apple Pie,20,39.99
+2024-03-31,Creatine Monohydrate,Unflavoured,38,29.99
+2024-04-01,Protein Powder,Cookies and CreamStrawberry,40,39.99
+2024-04-01,Creatine Monohydrate,Unflavoured,36,29.99
+2024-04-02,Protein Powder,Vanilla,44,39.99
+2024-04-02,Creatine Monohydrate,Unflavoured,95,29.99
+2024-04-03,Protein Powder,Chocolate,33,39.99
+2024-04-03,Creatine Monohydrate,Unflavoured,73,29.99
+2024-04-04,Protein Powder,Apple Pie,72,39.99
+2024-04-04,Creatine Monohydrate,Unflavoured,40,29.99
+2024-04-05,Protein Powder,Chocolate,81,39.99
+2024-04-05,Creatine Monohydrate,Unflavoured,62,29.99
+2024-04-06,Protein Powder,Apple Pie,35,39.99
+2024-04-06,Creatine Monohydrate,Unflavoured,84,29.99
+2024-04-07,Protein Powder,Cookies and CreamStrawberry,29,39.99
+2024-04-07,Creatine Monohydrate,Unflavoured,70,29.99
+2024-04-08,Protein Powder,Cookies and CreamStrawberry,37,39.99
+2024-04-08,Creatine Monohydrate,Unflavoured,92,29.99
+2024-04-09,Protein Powder,Apple Pie,79,39.99
+2024-04-09,Creatine Monohydrate,Unflavoured,60,29.99
+2024-04-10,Protein Powder,Vanilla,54,39.99
+2024-04-10,Creatine Monohydrate,Unflavoured,61,29.99
+2024-04-11,Protein Powder,Cookies and CreamStrawberry,46,39.99
+2024-04-11,Creatine Monohydrate,Unflavoured,67,29.99
+2024-04-12,Protein Powder,Chocolate,63,39.99
+2024-04-12,Creatine Monohydrate,Unflavoured,94,29.99
+2024-04-13,Protein Powder,Cookies and CreamStrawberry,80,39.99
+2024-04-13,Creatine Monohydrate,Unflavoured,61,29.99
+2024-04-14,Protein Powder,Vanilla,93,39.99
+2024-04-14,Creatine Monohydrate,Unflavoured,30,29.99
+2024-04-15,Protein Powder,Chocolate,34,39.99
+2024-04-15,Creatine Monohydrate,Unflavoured,52,29.99
+2024-04-16,Protein Powder,Cookies and CreamStrawberry,54,39.99
+2024-04-16,Creatine Monohydrate,Unflavoured,62,29.99
+2024-04-17,Protein Powder,Cookies and CreamStrawberry,83,39.99
+2024-04-17,Creatine Monohydrate,Unflavoured,55,29.99
+2024-04-18,Protein Powder,Vanilla,33,39.99
+2024-04-18,Creatine Monohydrate,Unflavoured,63,29.99
+2024-04-19,Protein Powder,Chocolate,49,39.99
+2024-04-19,Creatine Monohydrate,Unflavoured,31,29.99
+2024-04-20,Protein Powder,Cookies and CreamStrawberry,76,39.99
+2024-04-20,Creatine Monohydrate,Unflavoured,35,29.99
+2024-04-21,Protein Powder,Apple Pie,82,39.99
+2024-04-21,Creatine Monohydrate,Unflavoured,66,29.99
+2024-04-22,Protein Powder,Cookies and CreamStrawberry,74,39.99
+2024-04-22,Creatine Monohydrate,Unflavoured,44,29.99
+2024-04-23,Protein Powder,Vanilla,34,39.99
+2024-04-23,Creatine Monohydrate,Unflavoured,62,29.99
+2024-04-24,Protein Powder,Chocolate,84,39.99
+2024-04-24,Creatine Monohydrate,Unflavoured,98,29.99
+2024-04-25,Protein Powder,Cookies and CreamStrawberry,61,39.99
+2024-04-25,Creatine Monohydrate,Unflavoured,37,29.99
+2024-04-26,Protein Powder,Apple Pie,23,39.99
+2024-04-26,Creatine Monohydrate,Unflavoured,64,29.99
+2024-04-27,Protein Powder,Vanilla,96,39.99
+2024-04-27,Creatine Monohydrate,Unflavoured,96,29.99
+2024-04-28,Protein Powder,Apple Pie,39,39.99
+2024-04-28,Creatine Monohydrate,Unflavoured,27,29.99
+2024-04-29,Protein Powder,Chocolate,33,39.99
+2024-04-29,Creatine Monohydrate,Unflavoured,99,29.99
+2024-04-30,Protein Powder,Vanilla,24,39.99
+2024-04-30,Creatine Monohydrate,Unflavoured,60,29.99
+2024-05-01,Protein Powder,Cookies and CreamStrawberry,72,39.99
+2024-05-01,Creatine Monohydrate,Unflavoured,47,29.99
+2024-05-02,Protein Powder,Apple Pie,56,39.99
+2024-05-02,Creatine Monohydrate,Unflavoured,46,29.99
+2024-05-03,Protein Powder,Chocolate,86,39.99
+2024-05-03,Creatine Monohydrate,Unflavoured,94,29.99
+2024-05-04,Protein Powder,Chocolate,52,39.99
+2024-05-04,Creatine Monohydrate,Unflavoured,89,29.99
+2024-05-05,Protein Powder,Vanilla,21,39.99
+2024-05-05,Creatine Monohydrate,Unflavoured,52,29.99
+2024-05-06,Protein Powder,Vanilla,37,39.99
+2024-05-06,Creatine Monohydrate,Unflavoured,82,29.99
+2024-05-07,Protein Powder,Vanilla,30,39.99
+2024-05-07,Creatine Monohydrate,Unflavoured,50,29.99
+2024-05-08,Protein Powder,Cookies and CreamStrawberry,66,39.99
+2024-05-08,Creatine Monohydrate,Unflavoured,25,29.99
+2024-05-09,Protein Powder,Cookies and CreamStrawberry,26,39.99
+2024-05-09,Creatine Monohydrate,Unflavoured,58,29.99
+2024-05-10,Protein Powder,Cookies and CreamStrawberry,75,39.99
+2024-05-10,Creatine Monohydrate,Unflavoured,52,29.99
+2024-05-11,Protein Powder,Chocolate,76,39.99
+2024-05-11,Creatine Monohydrate,Unflavoured,33,29.99
+2024-05-12,Protein Powder,Vanilla,77,39.99
+2024-05-12,Creatine Monohydrate,Unflavoured,30,29.99
+2024-05-13,Protein Powder,Vanilla,93,39.99
+2024-05-13,Creatine Monohydrate,Unflavoured,44,29.99
+2024-05-14,Protein Powder,Chocolate,63,39.99
+2024-05-14,Creatine Monohydrate,Unflavoured,92,29.99
+2024-05-15,Protein Powder,Apple Pie,54,39.99
+2024-05-15,Creatine Monohydrate,Unflavoured,55,29.99
+2024-05-16,Protein Powder,Vanilla,84,39.99
+2024-05-16,Creatine Monohydrate,Unflavoured,61,29.99
+2024-05-17,Protein Powder,Apple Pie,33,39.99
+2024-05-17,Creatine Monohydrate,Unflavoured,69,29.99
+2024-05-18,Protein Powder,Vanilla,98,39.99
+2024-05-18,Creatine Monohydrate,Unflavoured,44,29.99
+2024-05-19,Protein Powder,Apple Pie,41,39.99
+2024-05-19,Creatine Monohydrate,Unflavoured,69,29.99
+2024-05-20,Protein Powder,Cookies and CreamStrawberry,74,39.99
+2024-05-20,Creatine Monohydrate,Unflavoured,21,29.99
+2024-05-21,Protein Powder,Apple Pie,86,39.99
+2024-05-21,Creatine Monohydrate,Unflavoured,55,29.99
+2024-05-22,Protein Powder,Cookies and CreamStrawberry,85,39.99
+2024-05-22,Creatine Monohydrate,Unflavoured,97,29.99
+2024-05-23,Protein Powder,Cookies and CreamStrawberry,21,39.99
+2024-05-23,Creatine Monohydrate,Unflavoured,59,29.99
+2024-05-24,Protein Powder,Chocolate,93,39.99
+2024-05-24,Creatine Monohydrate,Unflavoured,92,29.99
+2024-05-25,Protein Powder,Chocolate,50,39.99
+2024-05-25,Creatine Monohydrate,Unflavoured,35,29.99
+2024-05-26,Protein Powder,Vanilla,67,39.99
+2024-05-26,Creatine Monohydrate,Unflavoured,93,29.99
+2024-05-27,Protein Powder,Chocolate,51,39.99
+2024-05-27,Creatine Monohydrate,Unflavoured,51,29.99
+2024-05-28,Protein Powder,Apple Pie,93,39.99
+2024-05-28,Creatine Monohydrate,Unflavoured,97,29.99
+2024-05-29,Protein Powder,Cookies and CreamStrawberry,20,39.99
+2024-05-29,Creatine Monohydrate,Unflavoured,31,29.99
+2024-05-30,Protein Powder,Cookies and CreamStrawberry,62,39.99
+2024-05-30,Creatine Monohydrate,Unflavoured,87,29.99
+2024-05-31,Protein Powder,Cookies and CreamStrawberry,68,39.99
+2024-05-31,Creatine Monohydrate,Unflavoured,60,29.99
+2024-06-01,Protein Powder,Chocolate,79,39.99
+2024-06-01,Creatine Monohydrate,Unflavoured,84,29.99
+2024-06-02,Protein Powder,Apple Pie,71,39.99
+2024-06-02,Creatine Monohydrate,Unflavoured,59,29.99
+2024-06-03,Protein Powder,Cookies and CreamStrawberry,55,39.99
+2024-06-03,Creatine Monohydrate,Unflavoured,20,29.99
+2024-06-04,Protein Powder,Chocolate,63,39.99
+2024-06-04,Creatine Monohydrate,Unflavoured,40,29.99
+2024-06-05,Protein Powder,Apple Pie,70,39.99
+2024-06-05,Creatine Monohydrate,Unflavoured,68,29.99
+2024-06-06,Protein Powder,Apple Pie,44,39.99
+2024-06-06,Creatine Monohydrate,Unflavoured,97,29.99
+2024-06-07,Protein Powder,Vanilla,32,39.99
+2024-06-07,Creatine Monohydrate,Unflavoured,46,29.99
+2024-06-08,Protein Powder,Cookies and CreamStrawberry,31,39.99
+2024-06-08,Creatine Monohydrate,Unflavoured,76,29.99
+2024-06-09,Protein Powder,Cookies and CreamStrawberry,38,39.99
+2024-06-09,Creatine Monohydrate,Unflavoured,99,29.99
+2024-06-10,Protein Powder,Cookies and CreamStrawberry,80,39.99
+2024-06-10,Creatine Monohydrate,Unflavoured,80,29.99
+2024-06-11,Protein Powder,Vanilla,62,39.99
+2024-06-11,Creatine Monohydrate,Unflavoured,46,29.99
+2024-06-12,Protein Powder,Chocolate,62,39.99
+2024-06-12,Creatine Monohydrate,Unflavoured,33,29.99
+2024-06-13,Protein Powder,Apple Pie,75,39.99
+2024-06-13,Creatine Monohydrate,Unflavoured,56,29.99
+2024-06-14,Protein Powder,Apple Pie,91,39.99
+2024-06-14,Creatine Monohydrate,Unflavoured,41,29.99
+2024-06-15,Protein Powder,Apple Pie,23,39.99
+2024-06-15,Creatine Monohydrate,Unflavoured,21,29.99
+2024-06-16,Protein Powder,Apple Pie,88,39.99
+2024-06-16,Creatine Monohydrate,Unflavoured,77,29.99
+2024-06-17,Protein Powder,Cookies and CreamStrawberry,99,39.99
+2024-06-17,Creatine Monohydrate,Unflavoured,77,29.99
+2024-06-18,Protein Powder,Cookies and CreamStrawberry,35,39.99
+2024-06-18,Creatine Monohydrate,Unflavoured,62,29.99
+2024-06-19,Protein Powder,Apple Pie,92,39.99
+2024-06-19,Creatine Monohydrate,Unflavoured,29,29.99
+2024-06-20,Protein Powder,Cookies and CreamStrawberry,74,39.99
+2024-06-20,Creatine Monohydrate,Unflavoured,81,29.99
+2024-06-21,Protein Powder,Vanilla,21,39.99
+2024-06-21,Creatine Monohydrate,Unflavoured,33,29.99
+2024-06-22,Protein Powder,Chocolate,79,39.99
+2024-06-22,Creatine Monohydrate,Unflavoured,58,29.99
+2024-06-23,Protein Powder,Chocolate,57,39.99
+2024-06-23,Creatine Monohydrate,Unflavoured,78,29.99
+2024-06-24,Protein Powder,Chocolate,92,39.99
+2024-06-24,Creatine Monohydrate,Unflavoured,74,29.99
+2024-06-25,Protein Powder,Apple Pie,22,39.99
+2024-06-25,Creatine Monohydrate,Unflavoured,77,29.99
+2024-06-26,Protein Powder,Cookies and CreamStrawberry,21,39.99
+2024-06-26,Creatine Monohydrate,Unflavoured,93,29.99
+2024-06-27,Protein Powder,Vanilla,99,39.99
+2024-06-27,Creatine Monohydrate,Unflavoured,24,29.99
+2024-06-28,Protein Powder,Apple Pie,63,39.99
+2024-06-28,Creatine Monohydrate,Unflavoured,38,29.99
+2024-06-29,Protein Powder,Chocolate,32,39.99
+2024-06-29,Creatine Monohydrate,Unflavoured,23,29.99
+2024-06-30,Protein Powder,Chocolate,86,39.99
+2024-06-30,Creatine Monohydrate,Unflavoured,67,29.99
+2024-07-01,Protein Powder,Vanilla,65,39.99
+2024-07-01,Creatine Monohydrate,Unflavoured,43,29.99
+2024-07-02,Protein Powder,Cookies and CreamStrawberry,92,39.99
+2024-07-02,Creatine Monohydrate,Unflavoured,93,29.99
+2024-07-03,Protein Powder,Vanilla,22,39.99
+2024-07-03,Creatine Monohydrate,Unflavoured,80,29.99
+2024-07-04,Protein Powder,Apple Pie,89,39.99
+2024-07-04,Creatine Monohydrate,Unflavoured,55,29.99
+2024-07-05,Protein Powder,Chocolate,24,39.99
+2024-07-05,Creatine Monohydrate,Unflavoured,54,29.99
+2024-07-06,Protein Powder,Vanilla,66,39.99
+2024-07-06,Creatine Monohydrate,Unflavoured,28,29.99
+2024-07-07,Protein Powder,Cookies and CreamStrawberry,26,39.99
+2024-07-07,Creatine Monohydrate,Unflavoured,35,29.99
+2024-07-08,Protein Powder,Cookies and CreamStrawberry,32,39.99
+2024-07-08,Creatine Monohydrate,Unflavoured,24,29.99
+2024-07-09,Protein Powder,Chocolate,49,39.99
+2024-07-09,Creatine Monohydrate,Unflavoured,82,29.99
+2024-07-10,Protein Powder,Apple Pie,37,39.99
+2024-07-10,Creatine Monohydrate,Unflavoured,88,29.99
+2024-07-11,Protein Powder,Vanilla,23,39.99
+2024-07-11,Creatine Monohydrate,Unflavoured,37,29.99
+2024-07-12,Protein Powder,Chocolate,78,39.99
+2024-07-12,Creatine Monohydrate,Unflavoured,64,29.99
+2024-07-13,Protein Powder,Chocolate,35,39.99
+2024-07-13,Creatine Monohydrate,Unflavoured,80,29.99
+2024-07-14,Protein Powder,Apple Pie,44,39.99
+2024-07-14,Creatine Monohydrate,Unflavoured,57,29.99
+2024-07-15,Protein Powder,Cookies and CreamStrawberry,87,39.99
+2024-07-15,Creatine Monohydrate,Unflavoured,78,29.99
+2024-07-16,Protein Powder,Apple Pie,39,39.99
+2024-07-16,Creatine Monohydrate,Unflavoured,55,29.99
+2024-07-17,Protein Powder,Vanilla,52,39.99
+2024-07-17,Creatine Monohydrate,Unflavoured,44,29.99
+2024-07-18,Protein Powder,Apple Pie,66,39.99
+2024-07-18,Creatine Monohydrate,Unflavoured,96,29.99
+2024-07-19,Protein Powder,Vanilla,61,39.99
+2024-07-19,Creatine Monohydrate,Unflavoured,89,29.99
+2024-07-20,Protein Powder,Apple Pie,90,39.99
+2024-07-20,Creatine Monohydrate,Unflavoured,68,29.99
+2024-07-21,Protein Powder,Chocolate,52,39.99
+2024-07-21,Creatine Monohydrate,Unflavoured,69,29.99
+2024-07-22,Protein Powder,Chocolate,53,39.99
+2024-07-22,Creatine Monohydrate,Unflavoured,32,29.99
+2024-07-23,Protein Powder,Cookies and CreamStrawberry,63,39.99
+2024-07-23,Creatine Monohydrate,Unflavoured,70,29.99
+2024-07-24,Protein Powder,Apple Pie,27,39.99
+2024-07-24,Creatine Monohydrate,Unflavoured,26,29.99
+2024-07-25,Protein Powder,Cookies and CreamStrawberry,60,39.99
+2024-07-25,Creatine Monohydrate,Unflavoured,59,29.99
+2024-07-26,Protein Powder,Chocolate,72,39.99
+2024-07-26,Creatine Monohydrate,Unflavoured,47,29.99
+2024-07-27,Protein Powder,Apple Pie,96,39.99
+2024-07-27,Creatine Monohydrate,Unflavoured,93,29.99
+2024-07-28,Protein Powder,Apple Pie,53,39.99
+2024-07-28,Creatine Monohydrate,Unflavoured,37,29.99
+2024-07-29,Protein Powder,Chocolate,67,39.99
+2024-07-29,Creatine Monohydrate,Unflavoured,54,29.99
+2024-07-30,Protein Powder,Cookies and CreamStrawberry,50,39.99
+2024-07-30,Creatine Monohydrate,Unflavoured,59,29.99
+2024-07-31,Protein Powder,Cookies and CreamStrawberry,58,39.99
+2024-07-31,Creatine Monohydrate,Unflavoured,98,29.99
+2024-08-01,Protein Powder,Chocolate,89,39.99
+2024-08-01,Creatine Monohydrate,Unflavoured,84,29.99
+2024-08-02,Protein Powder,Chocolate,52,39.99
+2024-08-02,Creatine Monohydrate,Unflavoured,81,29.99
+2024-08-03,Protein Powder,Apple Pie,87,39.99
+2024-08-03,Creatine Monohydrate,Unflavoured,63,29.99
+2024-08-04,Protein Powder,Cookies and CreamStrawberry,20,39.99
+2024-08-04,Creatine Monohydrate,Unflavoured,70,29.99
+2024-08-05,Protein Powder,Apple Pie,77,39.99
+2024-08-05,Creatine Monohydrate,Unflavoured,54,29.99
+2024-08-06,Protein Powder,Vanilla,76,39.99
+2024-08-06,Creatine Monohydrate,Unflavoured,26,29.99
+2024-08-07,Protein Powder,Chocolate,45,39.99
+2024-08-07,Creatine Monohydrate,Unflavoured,99,29.99
+2024-08-08,Protein Powder,Vanilla,26,39.99
+2024-08-08,Creatine Monohydrate,Unflavoured,55,29.99
+2024-08-09,Protein Powder,Cookies and CreamStrawberry,86,39.99
+2024-08-09,Creatine Monohydrate,Unflavoured,35,29.99
+2024-08-10,Protein Powder,Cookies and CreamStrawberry,49,39.99
+2024-08-10,Creatine Monohydrate,Unflavoured,86,29.99
+2024-08-11,Protein Powder,Vanilla,52,39.99
+2024-08-11,Creatine Monohydrate,Unflavoured,80,29.99
+2024-08-12,Protein Powder,Chocolate,38,39.99
+2024-08-12,Creatine Monohydrate,Unflavoured,55,29.99
+2024-08-13,Protein Powder,Apple Pie,69,39.99
+2024-08-13,Creatine Monohydrate,Unflavoured,92,29.99
+2024-08-14,Protein Powder,Apple Pie,74,39.99
+2024-08-14,Creatine Monohydrate,Unflavoured,88,29.99
+2024-08-15,Protein Powder,Vanilla,78,39.99
+2024-08-15,Creatine Monohydrate,Unflavoured,21,29.99
+2024-08-16,Protein Powder,Chocolate,97,39.99
+2024-08-16,Creatine Monohydrate,Unflavoured,78,29.99
+2024-08-17,Protein Powder,Chocolate,94,39.99
+2024-08-17,Creatine Monohydrate,Unflavoured,45,29.99
+2024-08-18,Protein Powder,Cookies and CreamStrawberry,60,39.99
+2024-08-18,Creatine Monohydrate,Unflavoured,71,29.99
+2024-08-19,Protein Powder,Apple Pie,36,39.99
+2024-08-19,Creatine Monohydrate,Unflavoured,94,29.99
+2024-08-20,Protein Powder,Cookies and CreamStrawberry,48,39.99
+2024-08-20,Creatine Monohydrate,Unflavoured,99,29.99
+2024-08-21,Protein Powder,Cookies and CreamStrawberry,90,39.99
+2024-08-21,Creatine Monohydrate,Unflavoured,61,29.99
+2024-08-22,Protein Powder,Vanilla,79,39.99
+2024-08-22,Creatine Monohydrate,Unflavoured,20,29.99
+2024-08-23,Protein Powder,Vanilla,81,39.99
+2024-08-23,Creatine Monohydrate,Unflavoured,74,29.99
+2024-08-24,Protein Powder,Vanilla,97,39.99
+2024-08-24,Creatine Monohydrate,Unflavoured,78,29.99
+2024-08-25,Protein Powder,Vanilla,49,39.99
+2024-08-25,Creatine Monohydrate,Unflavoured,41,29.99
+2024-08-26,Protein Powder,Apple Pie,27,39.99
+2024-08-26,Creatine Monohydrate,Unflavoured,74,29.99
+2024-08-27,Protein Powder,Cookies and CreamStrawberry,56,39.99
+2024-08-27,Creatine Monohydrate,Unflavoured,40,29.99
+2024-08-28,Protein Powder,Chocolate,76,39.99
+2024-08-28,Creatine Monohydrate,Unflavoured,50,29.99
+2024-08-29,Protein Powder,Vanilla,37,39.99
+2024-08-29,Creatine Monohydrate,Unflavoured,55,29.99
+2024-08-30,Protein Powder,Cookies and CreamStrawberry,55,39.99
+2024-08-30,Creatine Monohydrate,Unflavoured,45,29.99
+2024-08-31,Protein Powder,Cookies and CreamStrawberry,96,39.99
+2024-08-31,Creatine Monohydrate,Unflavoured,73,29.99
+2024-09-01,Protein Powder,Vanilla,28,39.99
+2024-09-01,Creatine Monohydrate,Unflavoured,72,29.99
+2024-09-02,Protein Powder,Cookies and CreamStrawberry,38,39.99
+2024-09-02,Creatine Monohydrate,Unflavoured,95,29.99
+2024-09-03,Protein Powder,Chocolate,68,39.99
+2024-09-03,Creatine Monohydrate,Unflavoured,29,29.99
+2024-09-04,Protein Powder,Apple Pie,93,39.99
+2024-09-04,Creatine Monohydrate,Unflavoured,75,29.99
+2024-09-05,Protein Powder,Chocolate,67,39.99
+2024-09-05,Creatine Monohydrate,Unflavoured,49,29.99
+2024-09-06,Protein Powder,Cookies and CreamStrawberry,77,39.99
+2024-09-06,Creatine Monohydrate,Unflavoured,53,29.99
+2024-09-07,Protein Powder,Chocolate,20,39.99
+2024-09-07,Creatine Monohydrate,Unflavoured,85,29.99
+2024-09-08,Protein Powder,Chocolate,31,39.99
+2024-09-08,Creatine Monohydrate,Unflavoured,90,29.99
+2024-09-09,Protein Powder,Apple Pie,47,39.99
+2024-09-09,Creatine Monohydrate,Unflavoured,61,29.99
+2024-09-10,Protein Powder,Vanilla,64,39.99
+2024-09-10,Creatine Monohydrate,Unflavoured,84,29.99
+2024-09-11,Protein Powder,Chocolate,72,39.99
+2024-09-11,Creatine Monohydrate,Unflavoured,38,29.99
+2024-09-12,Protein Powder,Chocolate,24,39.99
+2024-09-12,Creatine Monohydrate,Unflavoured,67,29.99
+2024-09-13,Protein Powder,Apple Pie,77,39.99
+2024-09-13,Creatine Monohydrate,Unflavoured,27,29.99
+2024-09-14,Protein Powder,Cookies and CreamStrawberry,33,39.99
+2024-09-14,Creatine Monohydrate,Unflavoured,60,29.99
+2024-09-15,Protein Powder,Apple Pie,81,39.99
+2024-09-15,Creatine Monohydrate,Unflavoured,73,29.99
+2024-09-16,Protein Powder,Apple Pie,20,39.99
+2024-09-16,Creatine Monohydrate,Unflavoured,49,29.99
+2024-09-17,Protein Powder,Chocolate,26,39.99
+2024-09-17,Creatine Monohydrate,Unflavoured,67,29.99
+2024-09-18,Protein Powder,Chocolate,93,39.99
+2024-09-18,Creatine Monohydrate,Unflavoured,96,29.99
+2024-09-19,Protein Powder,Cookies and CreamStrawberry,50,39.99
+2024-09-19,Creatine Monohydrate,Unflavoured,71,29.99
+2024-09-20,Protein Powder,Vanilla,23,39.99
+2024-09-20,Creatine Monohydrate,Unflavoured,97,29.99
+2024-09-21,Protein Powder,Cookies and CreamStrawberry,32,39.99
+2024-09-21,Creatine Monohydrate,Unflavoured,99,29.99
+2024-09-22,Protein Powder,Vanilla,65,39.99
+2024-09-22,Creatine Monohydrate,Unflavoured,80,29.99
+2024-09-23,Protein Powder,Chocolate,32,39.99
+2024-09-23,Creatine Monohydrate,Unflavoured,34,29.99
+2024-09-24,Protein Powder,Apple Pie,38,39.99
+2024-09-24,Creatine Monohydrate,Unflavoured,92,29.99
+2024-09-25,Protein Powder,Apple Pie,62,39.99
+2024-09-25,Creatine Monohydrate,Unflavoured,46,29.99
+2024-09-26,Protein Powder,Chocolate,47,39.99
+2024-09-26,Creatine Monohydrate,Unflavoured,99,29.99
+2024-09-27,Protein Powder,Apple Pie,62,39.99
+2024-09-27,Creatine Monohydrate,Unflavoured,55,29.99
+2024-09-28,Protein Powder,Chocolate,89,39.99
+2024-09-28,Creatine Monohydrate,Unflavoured,30,29.99
+2024-09-29,Protein Powder,Cookies and CreamStrawberry,41,39.99
+2024-09-29,Creatine Monohydrate,Unflavoured,42,29.99
+2024-09-30,Protein Powder,Vanilla,53,39.99
+2024-09-30,Creatine Monohydrate,Unflavoured,46,29.99
+2024-10-01,Protein Powder,Chocolate,84,39.99
+2024-10-01,Creatine Monohydrate,Unflavoured,28,29.99
+2024-10-02,Protein Powder,Cookies and CreamStrawberry,70,39.99
+2024-10-02,Creatine Monohydrate,Unflavoured,31,29.99
+2024-10-03,Protein Powder,Vanilla,67,39.99
+2024-10-03,Creatine Monohydrate,Unflavoured,94,29.99
+2024-10-04,Protein Powder,Cookies and CreamStrawberry,22,39.99
+2024-10-04,Creatine Monohydrate,Unflavoured,40,29.99
+2024-10-05,Protein Powder,Cookies and CreamStrawberry,78,39.99
+2024-10-05,Creatine Monohydrate,Unflavoured,42,29.99
+2024-10-06,Protein Powder,Cookies and CreamStrawberry,90,39.99
+2024-10-06,Creatine Monohydrate,Unflavoured,79,29.99
+2024-10-07,Protein Powder,Cookies and CreamStrawberry,26,39.99
+2024-10-07,Creatine Monohydrate,Unflavoured,36,29.99
+2024-10-08,Protein Powder,Chocolate,22,39.99
+2024-10-08,Creatine Monohydrate,Unflavoured,88,29.99
+2024-10-09,Protein Powder,Apple Pie,80,39.99
+2024-10-09,Creatine Monohydrate,Unflavoured,41,29.99
+2024-10-10,Protein Powder,Vanilla,82,39.99
+2024-10-10,Creatine Monohydrate,Unflavoured,48,29.99
+2024-10-11,Protein Powder,Apple Pie,69,39.99
+2024-10-11,Creatine Monohydrate,Unflavoured,30,29.99
+2024-10-12,Protein Powder,Cookies and CreamStrawberry,30,39.99
+2024-10-12,Creatine Monohydrate,Unflavoured,75,29.99
+2024-10-13,Protein Powder,Cookies and CreamStrawberry,80,39.99
+2024-10-13,Creatine Monohydrate,Unflavoured,88,29.99
+2024-10-14,Protein Powder,Chocolate,46,39.99
+2024-10-14,Creatine Monohydrate,Unflavoured,76,29.99
+2024-10-15,Protein Powder,Apple Pie,88,39.99
+2024-10-15,Creatine Monohydrate,Unflavoured,24,29.99
+2024-10-16,Protein Powder,Chocolate,56,39.99
+2024-10-16,Creatine Monohydrate,Unflavoured,58,29.99
+2024-10-17,Protein Powder,Chocolate,93,39.99
+2024-10-17,Creatine Monohydrate,Unflavoured,86,29.99
+2024-10-18,Protein Powder,Chocolate,74,39.99
+2024-10-18,Creatine Monohydrate,Unflavoured,41,29.99
+2024-10-19,Protein Powder,Apple Pie,60,39.99
+2024-10-19,Creatine Monohydrate,Unflavoured,79,29.99
+2024-10-20,Protein Powder,Cookies and CreamStrawberry,99,39.99
+2024-10-20,Creatine Monohydrate,Unflavoured,20,29.99
+2024-10-21,Protein Powder,Chocolate,91,39.99
+2024-10-21,Creatine Monohydrate,Unflavoured,87,29.99
+2024-10-22,Protein Powder,Vanilla,64,39.99
+2024-10-22,Creatine Monohydrate,Unflavoured,85,29.99
+2024-10-23,Protein Powder,Cookies and CreamStrawberry,31,39.99
+2024-10-23,Creatine Monohydrate,Unflavoured,93,29.99
+2024-10-24,Protein Powder,Cookies and CreamStrawberry,55,39.99
+2024-10-24,Creatine Monohydrate,Unflavoured,58,29.99
+2024-10-25,Protein Powder,Vanilla,74,39.99
+2024-10-25,Creatine Monohydrate,Unflavoured,85,29.99
+2024-10-26,Protein Powder,Cookies and CreamStrawberry,78,39.99
+2024-10-26,Creatine Monohydrate,Unflavoured,28,29.99
+2024-10-27,Protein Powder,Chocolate,56,39.99
+2024-10-27,Creatine Monohydrate,Unflavoured,51,29.99
+2024-10-28,Protein Powder,Chocolate,75,39.99
+2024-10-28,Creatine Monohydrate,Unflavoured,63,29.99
+2024-10-29,Protein Powder,Vanilla,96,39.99
+2024-10-29,Creatine Monohydrate,Unflavoured,25,29.99
+2024-10-30,Protein Powder,Apple Pie,76,39.99
+2024-10-30,Creatine Monohydrate,Unflavoured,54,29.99
+2024-10-31,Protein Powder,Apple Pie,21,39.99
+2024-10-31,Creatine Monohydrate,Unflavoured,54,29.99
+2024-11-01,Protein Powder,Apple Pie,31,39.99
+2024-11-01,Creatine Monohydrate,Unflavoured,94,29.99
+2024-11-02,Protein Powder,Cookies and CreamStrawberry,41,39.99
+2024-11-02,Creatine Monohydrate,Unflavoured,39,29.99
+2024-11-03,Protein Powder,Apple Pie,40,39.99
+2024-11-03,Creatine Monohydrate,Unflavoured,85,29.99
+2024-11-04,Protein Powder,Cookies and CreamStrawberry,61,39.99
+2024-11-04,Creatine Monohydrate,Unflavoured,66,29.99
+2024-11-05,Protein Powder,Cookies and CreamStrawberry,89,39.99
+2024-11-05,Creatine Monohydrate,Unflavoured,79,29.99
+2024-11-06,Protein Powder,Apple Pie,44,39.99
+2024-11-06,Creatine Monohydrate,Unflavoured,59,29.99
+2024-11-07,Protein Powder,Apple Pie,42,39.99
+2024-11-07,Creatine Monohydrate,Unflavoured,41,29.99
+2024-11-08,Protein Powder,Apple Pie,82,39.99
+2024-11-08,Creatine Monohydrate,Unflavoured,58,29.99
+2024-11-09,Protein Powder,Apple Pie,62,39.99
+2024-11-09,Creatine Monohydrate,Unflavoured,68,29.99
+2024-11-10,Protein Powder,Apple Pie,32,39.99
+2024-11-10,Creatine Monohydrate,Unflavoured,94,29.99
+2024-11-11,Protein Powder,Apple Pie,76,39.99
+2024-11-11,Creatine Monohydrate,Unflavoured,90,29.99
+2024-11-12,Protein Powder,Vanilla,44,39.99
+2024-11-12,Creatine Monohydrate,Unflavoured,83,29.99
+2024-11-13,Protein Powder,Vanilla,97,39.99
+2024-11-13,Creatine Monohydrate,Unflavoured,76,29.99
+2024-11-14,Protein Powder,Apple Pie,32,39.99
+2024-11-14,Creatine Monohydrate,Unflavoured,32,29.99
+2024-11-15,Protein Powder,Vanilla,61,39.99
+2024-11-15,Creatine Monohydrate,Unflavoured,88,29.99
+2024-11-16,Protein Powder,Vanilla,49,39.99
+2024-11-16,Creatine Monohydrate,Unflavoured,58,29.99
+2024-11-17,Protein Powder,Chocolate,48,39.99
+2024-11-17,Creatine Monohydrate,Unflavoured,67,29.99
+2024-11-18,Protein Powder,Vanilla,40,39.99
+2024-11-18,Creatine Monohydrate,Unflavoured,87,29.99
+2024-11-19,Protein Powder,Vanilla,74,39.99
+2024-11-19,Creatine Monohydrate,Unflavoured,35,29.99
+2024-11-20,Protein Powder,Vanilla,75,39.99
+2024-11-20,Creatine Monohydrate,Unflavoured,97,29.99
+2024-11-21,Protein Powder,Apple Pie,95,39.99
+2024-11-21,Creatine Monohydrate,Unflavoured,22,29.99
+2024-11-22,Protein Powder,Chocolate,56,39.99
+2024-11-22,Creatine Monohydrate,Unflavoured,49,29.99
+2024-11-23,Protein Powder,Cookies and CreamStrawberry,20,39.99
+2024-11-23,Creatine Monohydrate,Unflavoured,61,29.99
+2024-11-24,Protein Powder,Cookies and CreamStrawberry,97,39.99
+2024-11-24,Creatine Monohydrate,Unflavoured,92,29.99
+2024-11-25,Protein Powder,Vanilla,90,39.99
+2024-11-25,Creatine Monohydrate,Unflavoured,23,29.99
+2024-11-26,Protein Powder,Apple Pie,64,39.99
+2024-11-26,Creatine Monohydrate,Unflavoured,46,29.99
+2024-11-27,Protein Powder,Vanilla,34,39.99
+2024-11-27,Creatine Monohydrate,Unflavoured,94,29.99
+2024-11-28,Protein Powder,Chocolate,97,39.99
+2024-11-28,Creatine Monohydrate,Unflavoured,64,29.99
+2024-11-29,Protein Powder,Apple Pie,63,39.99
+2024-11-29,Creatine Monohydrate,Unflavoured,55,29.99
+2024-11-30,Protein Powder,Cookies and CreamStrawberry,93,39.99
+2024-11-30,Creatine Monohydrate,Unflavoured,24,29.99
+2024-12-01,Protein Powder,Vanilla,80,39.99
+2024-12-01,Creatine Monohydrate,Unflavoured,97,29.99
+2024-12-02,Protein Powder,Vanilla,98,39.99
+2024-12-02,Creatine Monohydrate,Unflavoured,27,29.99
+2024-12-03,Protein Powder,Vanilla,72,39.99
+2024-12-03,Creatine Monohydrate,Unflavoured,88,29.99
+2024-12-04,Protein Powder,Vanilla,41,39.99
+2024-12-04,Creatine Monohydrate,Unflavoured,93,29.99
+2024-12-05,Protein Powder,Apple Pie,46,39.99
+2024-12-05,Creatine Monohydrate,Unflavoured,24,29.99
+2024-12-06,Protein Powder,Vanilla,30,39.99
+2024-12-06,Creatine Monohydrate,Unflavoured,27,29.99
+2024-12-07,Protein Powder,Apple Pie,32,39.99
+2024-12-07,Creatine Monohydrate,Unflavoured,31,29.99
+2024-12-08,Protein Powder,Cookies and CreamStrawberry,49,39.99
+2024-12-08,Creatine Monohydrate,Unflavoured,69,29.99
+2024-12-09,Protein Powder,Apple Pie,49,39.99
+2024-12-09,Creatine Monohydrate,Unflavoured,39,29.99
+2024-12-10,Protein Powder,Vanilla,44,39.99
+2024-12-10,Creatine Monohydrate,Unflavoured,34,29.99
+2024-12-11,Protein Powder,Vanilla,95,39.99
+2024-12-11,Creatine Monohydrate,Unflavoured,25,29.99
+2024-12-12,Protein Powder,Cookies and CreamStrawberry,45,39.99
+2024-12-12,Creatine Monohydrate,Unflavoured,49,29.99
+2024-12-13,Protein Powder,Cookies and CreamStrawberry,31,39.99
+2024-12-13,Creatine Monohydrate,Unflavoured,32,29.99
+2024-12-14,Protein Powder,Chocolate,73,39.99
+2024-12-14,Creatine Monohydrate,Unflavoured,50,29.99
+2024-12-15,Protein Powder,Vanilla,27,39.99
+2024-12-15,Creatine Monohydrate,Unflavoured,66,29.99
+2024-12-16,Protein Powder,Apple Pie,56,39.99
+2024-12-16,Creatine Monohydrate,Unflavoured,52,29.99
+2024-12-17,Protein Powder,Chocolate,74,39.99
+2024-12-17,Creatine Monohydrate,Unflavoured,86,29.99
+2024-12-18,Protein Powder,Cookies and CreamStrawberry,24,39.99
+2024-12-18,Creatine Monohydrate,Unflavoured,98,29.99
+2024-12-19,Protein Powder,Chocolate,91,39.99
+2024-12-19,Creatine Monohydrate,Unflavoured,47,29.99
+2024-12-20,Protein Powder,Vanilla,38,39.99
+2024-12-20,Creatine Monohydrate,Unflavoured,45,29.99
+2024-12-21,Protein Powder,Chocolate,25,39.99
+2024-12-21,Creatine Monohydrate,Unflavoured,21,29.99
+2024-12-22,Protein Powder,Apple Pie,86,39.99
+2024-12-22,Creatine Monohydrate,Unflavoured,98,29.99
+2024-12-23,Protein Powder,Cookies and CreamStrawberry,58,39.99
+2024-12-23,Creatine Monohydrate,Unflavoured,25,29.99
+2024-12-24,Protein Powder,Cookies and CreamStrawberry,88,39.99
+2024-12-24,Creatine Monohydrate,Unflavoured,54,29.99
+2024-12-25,Protein Powder,Cookies and CreamStrawberry,97,39.99
+2024-12-25,Creatine Monohydrate,Unflavoured,55,29.99
+2024-12-26,Protein Powder,Cookies and CreamStrawberry,68,39.99
+2024-12-26,Creatine Monohydrate,Unflavoured,29,29.99
+2024-12-27,Protein Powder,Vanilla,34,39.99
+2024-12-27,Creatine Monohydrate,Unflavoured,74,29.99
+2024-12-28,Protein Powder,Cookies and CreamStrawberry,75,39.99
+2024-12-28,Creatine Monohydrate,Unflavoured,79,29.99
+2024-12-29,Protein Powder,Cookies and CreamStrawberry,43,39.99
+2024-12-29,Creatine Monohydrate,Unflavoured,42,29.99
+2024-12-30,Protein Powder,Chocolate,49,39.99
+2024-12-30,Creatine Monohydrate,Unflavoured,99,29.99
